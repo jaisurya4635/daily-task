@@ -1,0 +1,19 @@
+Speak for 2 minutes on:
+
+Introduce Yourself
+
+Include:
+- Name
+- College
+- Branch
+- Skills
+- Projects
+- Career goal
+
+Example structure:
+
+My name is Jaisurya S M
+I am pursuing Artificial Intelligence and Machine Learning at Muthayammal Engineering College college.
+I am interested in software development and problem solving.
+I have worked on projects like leetcode tracker,cgpa calculator and now i work in live project  .
+My goal is to become a software engineer in a product-based company.
