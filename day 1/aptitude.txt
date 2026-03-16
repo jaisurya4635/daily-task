@@ -1,0 +1,57 @@
+1.Question 1
+A number increased by 20% becomes 120.
+Find the original number.
+
+120%100=1.20
+1.20*x=120
+x=120/1.20
+x=100
+Answer :100
+
+-----------------------------------------------------------------------------------------------
+
+Question 2
+If the price of a laptop increases from ₹50,000 to ₹60,000,
+what is the percentage increase ?
+
+increase = 60000-50000 = 10000
+percentage = (increase/original price) *100
+=(10000/50000)*100
+=20%
+Answer :20%
+-----------------------------------------------------------------------------------------------
+
+
+Question 3
+A student scored 72 out of 90 in an exam.
+Find the percentage score.
+
+Percentage = (Mark obtained/total Marks)*100
+=(72/90)*100
+=0.8 *100
+=80%
+Answer :80%
+-----------------------------------------------------------------------------------------------
+
+Question 4
+The population of a town increases from 50,000 to 60,000.
+Find the percentage increase.
+
+increase = 60000-50000 = 10000
+percentage = (increase/original price) *100
+=(10000/50000)*100
+=20%
+Answer :20%
+-----------------------------------------------------------------------------------------------
+
+Question 5
+A shirt originally costs ₹800.
+After a 25% discount, what is the final price?
+
+=(25/100)*800
+=200
+Final price = 800-200
+=600
+Answer :600
+-----------------------------------------------------------------------------------------------
+
