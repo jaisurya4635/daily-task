@@ -1,0 +1,62 @@
+Question 1
+A shopkeeper buys a book for ₹400 and sells it for ₹480.
+Find the profit percentage.
+Soln :
+  profit=sell price-cost price
+      =480-400
+      =80
+profit percent = profit/cost price * 100
+   =80/400 * 100
+   =20%
+
+Ans: 20%
+
+-----------------------------------------------------------------------------
+Question 2
+A man buys a watch for ₹1500 and sells it for ₹1200.
+Find the loss percentage.
+Soln:
+    loss=c.p-selling price
+      =1500-1200
+      =300
+    loss percentage = loss/costprice *100
+    =300/1500*100
+    =20%
+Ans : 20%
+-----------------------------------------------------------------------------
+
+Question 3
+A trader marks a product 20% above the cost price and gives a 10% discount.
+Find the final profit percentage.
+Soln:
+    if cost price of that product =100
+    20% of the cost price =20 +100
+                         =120
+    10% of the current cost price=12 -120
+                         =108
+    profit percentage=108-100/100 *100
+                         =8
+Ans : 8%
+-----------------------------------------------------------------------------
+
+Question 4
+If the cost price of 5 pens is ₹100, what is the selling price of each pen to make 25% profit?
+Soln:
+     price of each pen =100/5 = 20
+     25% of 20 = 5
+     current price + profit =20+5
+                            =25
+Ans:
+    25
+    -----------------------------------------------------------------------------
+
+Question 5
+A product is sold for ₹900 with a 10% loss.
+Find the cost price.
+Soln: 
+    Cost price = S.P *100/100-Loss%
+              = 900*100 / 100-10
+              =1000
+Ans :
+     1000
+     -----------------------------------------------------------------------------
