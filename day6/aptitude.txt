@@ -1,0 +1,47 @@
+APTITUDE (Permutation & Combination)
+
+Question 1
+In how many ways can 3 students be selected from 7 students?
+Soln:
+=7!/3!4!
+
+Calculation:
+
+=7×6×5/3×2×1
+=35
+
+Answer: 35
+
+
+Question 2
+How many 2-digit numbers can be formed using digits 1, 2, 3, 4 without repetition?
+Soln:
+First --- 4 choices
+Second --- 3 choices
+4×3=12
+
+Ans: 12
+
+Question 3
+In how many ways can a captain and vice-captain be chosen from 6 players?
+Soln:
+=4!/6!
+=6×5=30
+
+Ans: 30
+
+Question 4
+How many different arrangements can be made using the letters of the word MATH?
+Soln:
+4!=4×3×2×1=24
+
+Ans: 24
+
+Question 5
+A committee of 4 members is to be formed from 8 people. In how many ways can it be formed?
+Soln:
+=4!4!/8!
+=8×7×6×5/4×3×2×1
+=70
+
+Ans: 70
